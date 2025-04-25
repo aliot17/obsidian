@@ -1,0 +1,5 @@
+---
+aliases:
+  - PRG
+  - pseudorandom generator
+---

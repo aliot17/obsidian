@@ -1,0 +1,3 @@
+* **[[Personal Eventing Protocol (PEP) (XMPP)]]** An [[XMPP (Extensible Messaging and Presence Protocol)|XMPP]] extension that allows users to publish and subscribe to personal information or events. [[OMEMO (XMPP Extension Protocol XEP-0384)|OMEMO]] uses PEP to manage and distribute device lists for multi-device encryption.
+
+* **[[Push Notification Services]]** Services that deliver notifications to mobile devices and can potentially expose sensitive metadata. Research has shown that secure messaging apps can leak sensitive data to push notification services, creating privacy risks. [16, 17]
